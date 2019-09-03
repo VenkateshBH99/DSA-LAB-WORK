@@ -1,0 +1,133 @@
+T = [None for i in range(30)]
+def hashing_func(key):
+    return key % len(T)
+
+
+def insert(hash_table, key, value):
+	hash_key = hashing_func(key)
+    hash_table[hash_key].append(value)
+
+
+
+
+class ListNode:
+	def __init__(self,k=None,val=None,nex=None):
+		self.key=k
+		self.value=val
+		self.next=nex
+
+def main():
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
